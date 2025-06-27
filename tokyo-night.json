@@ -1,0 +1,15 @@
+{
+  "name": "Tokyo night",
+  "colors": {
+    "--color-long-round": "#7aa2f7",
+    "--color-short-round": "#9ece6a",
+    "--color-focus-round": "#f7768e",
+    "--color-background": "#1a1b26", 
+    "--color-background-light": "#1a1b26", 
+    "--color-background-lightest": "#a9b1d6",
+    "--color-foreground": "#c0caf5",
+    "--color-foreground-darker": "#c0caf5",
+    "--color-foreground-darkest": "#565f89",
+    "--color-accent": "#f7768e"
+  }
+}
